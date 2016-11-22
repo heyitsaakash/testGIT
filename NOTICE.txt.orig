@@ -1,11 +1,13 @@
+<<<<<<< HEAD
 
-<<<<<<< 102a23ec99575f0a074d14dbfeb08a06cae07298
---- Aakash first change
+
+- second local commit…
 =======
+-- Second change through without rebase
+>>>>>>> 5f58c6318e9835c58682cd0193550842e16f9598
 ——change by aakash(PRINTOUT)
->>>>>>> Change by aakash
+--- Aakash first change
 Elassandra Copyright (C) 2015 Vincent Royer (vroyer@vroyer.org).
-
 
 This product include software developed by Elasticsearch 
 Copyright 2009-2015 http://www.elastic.co 
